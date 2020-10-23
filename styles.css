@@ -33,3 +33,6 @@
 /*.list-group-item {
 	font-size: 14px !important;
 }*/
+.flex-panel {
+	flex:1;
+}
